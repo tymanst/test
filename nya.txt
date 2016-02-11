@@ -1,2 +1,2 @@
-nyanyanya
-nya_advanced
+nyanyanya;
+nya_advanced;
